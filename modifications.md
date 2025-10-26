@@ -17,3 +17,4 @@ In short: Really bad performance. Really should be used to host old mods, becaus
 ## Designing The Package Well
 (nothing yet)
 ## Optimizations
+For optimization I recomment checking a repository someone has made that really tells everything in this subject: [Minecraft Optimizations](https://github.com/YouHaveTrouble/minecraft-optimization)
