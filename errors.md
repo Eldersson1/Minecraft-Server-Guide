@@ -1,6 +1,6 @@
 ## Errors
 
-Every Minecraft server owner hits errors — and that’s normal. Whether it’s a plugin throwing red text all over your console or players getting random disconnects, most problems aren’t the end of the world. You just need to know **why** they happen and how to track them down.
+Every Minecraft server owner hits errors and that’s normal. Whether it’s a plugin throwing red text all over your console or players getting random disconnects, most problems aren’t the end of the world. You just need to know **why** they happen and how to track them down.
 
 ### Understanding the Source
 
@@ -93,4 +93,4 @@ You’ll almost always find the cause faster when you isolate the problem instea
 
 ---
 
-Errors aren’t failures — they’re just clues. Once you get used to reading logs and understanding what the console’s trying to tell you, debugging becomes less “panic” and more “detective work.”
+Errors aren’t failures, they’re just clues. Once you get used to reading logs and understanding what the console’s trying to tell you, debugging becomes less “panic” and more “detective work.”
