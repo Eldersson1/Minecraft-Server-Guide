@@ -8,7 +8,7 @@ Before adding new features or tweaking gameplay, figure out **who** your main pl
 Are they competitive PvPers chasing wins, or creative builders who want freedom?  
 The clearer you are about your target group, the easier it is to design experiences that hit the mark.
 
-If you try to make everyone happy, you’ll end up with a watered-down mess. Instead, **lean into your core audience** first — make their experience amazing. Once that group feels at home, you can start layering in features that attract other types of players without breaking what already works.
+If you try to make everyone happy, you’ll end up with a watered-down mess. Instead, **lean into your core audience** first make their experience amazing. Once that group feels at home, you can start layering in features that attract other types of players without breaking what already works.
 
 ### Balancing Different Player Types
 
@@ -30,4 +30,4 @@ Iterate fast, test ideas, and listen. The players will show you what works if yo
 
 ---
 
-Building a strong playerbase isn’t about numbers. It’s about making sure the players you do have feel like they belong — and can see themselves in the game you’re creating.
+Building a strong playerbase isn’t about numbers. It’s about making sure the players you do have feel like they belong and can see themselves in the game you’re creating.
