@@ -26,7 +26,7 @@ They got really easy server making setup very good for beginners. They have many
 Excellent deals. Beautiful panel and also they tell exactly what plan you should take for what situation. Really respect that! Also best support I've experienced with fast responses.
 ## Choosing a Plan
 Most important part for premium servers. 
-1-2GB - Just do free hosting or a proxy purpose. 
-4-6GB - Friends and Small public server. 
-8-12GB - I really don't recommend getting a plan for one server. Better way is to split for smaller servers with a proxy setup. 
-16-64 - Big network. Single server will just not probably ever get to that usage so just split it. 
+- 1-2GB - Just do free hosting or a proxy purpose. 
+- 4-6GB - Friends and Small public server. 
+- 8-12GB - I really don't recommend getting a plan for one server. Better way is to split for smaller servers with a proxy setup. 
+- 16-64 - Big network. Single server will just not probably ever get to that usage so just split it. 
