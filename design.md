@@ -1,1 +1,24 @@
-Design is an very important part of a game. Without design a game would not be fun and replayable. This page will be mostly for minigames and SMP servers. So a good way to make a good game is to have some rules and by rules I don't mean just breaking a playing style. You should like build on different playstyles so that your game can hit at least one playstyle well. Like a speedrunning SMP would only appeal to speedrunners so it becomes a strickt niche that you can't really build on, but you actually can if you think about it. Like if there would be a quality vs speed minigame in that it would also appeal to the slower builders. Mostly you wanna start with one niche and build on that later on. Because one group done well is gonna welcome more and more people and it'll become bigger and eventually moneytizable. Money. Making money from a Minecraft server is crucial because always something costs money either hosting, development, designers etc. So you should design a system where people can pay money for in game items not pay to win, not cosmetic,
+## 🎨 Design
+
+Design is one of the most important parts of a game. Without it, a game loses its fun, replayability, and sense of purpose. This section mainly applies to **minigames** and **SMP servers**, but the principles fit anywhere.
+
+### Understanding Playstyles
+
+A great game thrives on diverse playstyles. Rules aren’t just about restricting behavior — they shape how players interact, compete, and express themselves.
+
+For example, a **speedrunning SMP** might only attract speedrunners at first, making it a niche experience. But with smart design, you can expand that. Imagine adding a **“quality vs. speed”** challenge where fast players race while slower builders compete for creativity or efficiency. Suddenly, you’ve created overlap between different playstyles — and a broader audience.
+
+The key is to **start small**. Focus on one niche and perfect it. When that community feels strong and enjoyable, others will naturally join in. That’s how small, well-built ideas grow into larger, thriving games.
+
+### Building Toward Monetization
+
+Eventually, growth means money — and that’s not a bad thing. Servers cost real resources: hosting, plugins, development, design. You’ll need a way to make income that feels natural and fair.
+
+Avoid the lazy **pay-to-win** approach; it kills long-term fun. Instead, think about **value-based monetization** — ways for players to pay for **experiences**, not raw power.
+
+**Examples:**
+- Unlocking a hidden questline or secret level  
+- Gaining access to unique lore moments or story scenes  
+- Earning special tools through extra effort, not direct purchase  
+
+When players pay to **enrich** the experience — not to skip it — you build trust and longevity. That’s good design, both creatively and economically.
