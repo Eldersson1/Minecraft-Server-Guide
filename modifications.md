@@ -15,6 +15,6 @@ This is a highly recommended switch from paper. It's basically paper, with compa
 ### Forge
 In short: Really bad performance. Really should be used to host old mods, because those run only on forge. 
 ## Designing The Package Well
-(nothing yet)
+Some people think a server will work if they just dump a bunch of random minigames and other free plugins to a server and expect it to perform like Hypixel. Well it isn't quite like that. Mods should be treated carefully I would recommend if ur making a new game or SMP first do the minimum like everything that makes it unique. And only then slowly add stuff if you think you really need it. But there's also some things that you should remember before starting a server like pre-generating your world if it's SMP or Survival. For minigames make a few varying maps that all add something different to the experience in a good way. In a good way you know by getting play testers. Always have playtesters if your server is minigame type, because if the games aren't fun, what is people's incentive to play it?
 ## Optimizations
 For optimization I recomment checking a repository someone has made that really tells everything in this subject: [Minecraft Optimizations](https://github.com/YouHaveTrouble/minecraft-optimization)
