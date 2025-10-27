@@ -14,3 +14,4 @@ Here I show how the players you choose to invite to your private server affect y
 Minecraft Server Errors. They happen. Here's solutions to some of them!
 
 Sources: my head
+_if you see something wrong please edit it so there's no false information_
