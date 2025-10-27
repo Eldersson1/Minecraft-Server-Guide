@@ -12,3 +12,5 @@ Here I help you make a good game design mainly for public but also private serve
 Here I show how the players you choose to invite to your private server affect your decisions and also how you invite and how public servers can get attention.
 # [🖥️ Errors](https://github.com/Eldersson1/Minecraft-Server-Guide/blob/main/errors.md)
 Minecraft Server Errors. They happen. Here's solutions to some of them!
+
+Sources: my head
